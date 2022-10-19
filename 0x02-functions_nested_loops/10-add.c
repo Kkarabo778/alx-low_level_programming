@@ -5,7 +5,7 @@
  * @n1: integer 1
  * @n2: integer 2
  * Description: give two integer, returns sum
- * return: sum
+ * Return: sum
  */
 
 int add(int n1, int n2)

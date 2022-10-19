@@ -2,8 +2,8 @@
 
 /**
  * _abs - Entry point
- * @n: n is an integer 
- * Desccription: prints the absolute value of an integer 
+ * @n: n is an integer
+ * Desccription: prints the absolute value of an integer
  * Return: int
  */
 
@@ -17,7 +17,7 @@ int _abs(int n)
 	{
 		return (-n);
 	}
-	else 
+	else
 	{
 		return (n);
 	}

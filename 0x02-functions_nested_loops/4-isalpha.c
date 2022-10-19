@@ -3,7 +3,7 @@
 /**
  * _isalpha - Entry point
  * @c:the integer value it receives
- * Description: Checks if alphabet 
+ *
  * Return: 1 if true. 0 if false
  */
 
